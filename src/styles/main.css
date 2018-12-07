@@ -1,0 +1,11 @@
+#display-container {
+ display: flex;
+}
+
+#foodList {
+ display: none;
+}
+
+#foodItem {
+
+}
