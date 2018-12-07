@@ -1,0 +1,34 @@
+{
+    "food": [
+    {
+        "id": 1,
+        "name": "Tiramisu",
+        "type": "dessert",
+        "ethnicity": "Italian"
+    },
+    {
+        "id": 2,
+        "name": "Massaman curry",
+        "type": "curry",
+        "ethnicity": "Thai"
+    },
+    {
+        "id": 3,
+        "name": "Palak Paneer",
+        "type": "curry",
+        "ethnicity": "Indian"
+    },
+    {
+        "id": 4,
+        "name": "Rattatouille",
+        "type": "soup",
+        "ethnicity": "French"
+    },
+    {
+        "id": 5,
+        "name": "Shepherd's Pie",
+        "type": "main",
+        "ethnicity": "UK"
+    }
+    ]
+  }
